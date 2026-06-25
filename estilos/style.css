@@ -1,0 +1,16 @@
+* {
+    frot-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+   body {
+    background-color:  rgb(248, 247, 250);    
+ }
+
+ main {
+    background-color: #fff;
+    width: 500px;
+    margin: 0 auto;
+    padding: 10px;
+    box-shadow: 3px 3px 5px rgba(13, 0, 0, 0.908);
+}
